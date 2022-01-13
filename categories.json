@@ -1,11 +1,11 @@
 [
-    {"title": "Wedding Pose", "image": "wedding.jpg", "folder": "wedding"},
-    {"title": "Couple Pose", "image": "couple.jpg", "folder": "couple"},
-    {"title": "Saree Pose", "image": "saree.jpg", "folder": "saree"},
-    {"title": "Beach Pose", "image": "beach.jpg", "folder": "beach"},
     {"title": "Standing Pose", "image": "standing.jpg", "folder": "standing"},
     {"title": "Sitting Pose", "image": "sitting.jpg", "folder": "sitting"},
     {"title": "Selfie Pose", "image": "selfie.jpg", "folder": "selfie"},
+    {"title": "Saree Pose", "image": "saree.jpg", "folder": "saree"},
     {"title": "Kurti Pose", "image": "kurti.jpg", "folder": "kurti"},
-    {"title": "Maharashtra Girls", "image": "marathi.jpg", "folder": "marathi"}
+    {"title": "Couple Pose", "image": "couple.jpg", "folder": "couple"},
+    {"title": "Wedding Pose", "image": "wedding.jpg", "folder": "wedding"},
+    {"title": "Maharashtra Girls", "image": "marathi.jpg", "folder": "marathi"},
+    {"title": "Beach Pose", "image": "beach.jpg", "folder": "beach"}
 ]
