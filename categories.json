@@ -10,5 +10,6 @@
     {"title": "Maharashtra Girls", "image": "marathi.jpg", "folder": "marathi"},
     {"title": "Beach Pose", "image": "beach.jpg", "folder": "beach"},
     {"title": "Birthday Pose", "image": "birthday.jpg", "folder": "birthday"},
-    {"title": "Mehndi Design", "image": "mehndi.jpg", "folder": "mehndi"}
+    {"title": "Mehndi Design", "image": "mehndi.jpg", "folder": "mehndi"},
+    {"title": "Hairstyle Design", "image": "hairstyle.jpg", "folder": "hairstyle"}
 ]
