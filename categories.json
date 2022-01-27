@@ -11,5 +11,6 @@
     {"title": "Beach Pose", "image": "beach.jpg", "folder": "beach"},
     {"title": "Birthday Pose", "image": "birthday.jpg", "folder": "birthday"},
     {"title": "Mehndi Design", "image": "mehndi.jpg", "folder": "mehndi"},
-    {"title": "Hairstyle Design", "image": "hairstyle.jpg", "folder": "hairstyle"}
+    {"title": "Hairstyle Design", "image": "hairstyle.jpg", "folder": "hairstyle"},
+    {"title": "Outfit Types", "image": "outfit.jpg", "folder": "outfit"}
 ]
